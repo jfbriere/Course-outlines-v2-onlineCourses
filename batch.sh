@@ -7,7 +7,7 @@
 # or try
 # dos2unix batch.sh
 
-session="_Summer2020"
+session="_Fall2020"
 
 #for dir in *NYA* *NYB*; do
 
@@ -19,7 +19,7 @@ session="_Summer2020"
 
 ## SUMMER COURSE LIST ##
 #for dir in *NYA* *NYB* *NYC* *001* ; do
-for dir in *NYA* *NYB*; do
+for dir in *NYA*; do
 
 echo 'Generating outline for' $dir
 
