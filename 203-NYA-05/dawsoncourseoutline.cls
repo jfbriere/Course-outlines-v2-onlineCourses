@@ -141,6 +141,8 @@ $^\dag$\small Your teacher will provide a detailed breakdown of these components
 
 \newcommand\jfbriere{\item [Jean-Fran\c cois Bri\`ere] 7A.16, local 4013, \url{jfbriere@dawsoncollege.qc.ca}}
 
+\newcommand\rcampbell{\item [Robyn E. Campbell] 7A.18, local 4913, \url{recampbell@dawsoncollege.qc.ca}}
+
 \newcommand\jchoquette{\item [Jeremie Choquette] 7B.21, local 4235, \url{jchoquette@dawsoncollege.qc.ca}}
 
 \newcommand\rdib{\item [Rim Dib] 7B.19, local 4153, \url{rdib@dawsoncollege.qc.ca}}
