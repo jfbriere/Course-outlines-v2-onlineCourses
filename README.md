@@ -33,30 +33,30 @@ The template file is copied to each folder and then a pdf is generated automatic
 ## Things to update every term:
 
 - If we hired new faculty or if some faculty members change offices:
-        > Open the file dawsoncourseoutline.cls
-        > In the Faculty contact info section, add a line for the new teacher or modify the office numbers
+  - Open the file dawsoncourseoutline.cls
+  - In the Faculty contact info section, add a line for the new teacher or modify the office numbers
 
 - If there are changes in the text repeated in all outlines:
-        > Open the General folder
-        > Make the changes to the appropriate files
+  - Open the General folder
+  - Make the changes to the appropriate files
 
 - In file batch.sh :
-        > Change the 'session' to the current semester.
+  - Change the 'session' to the current semester.
 
 - In file template.tex:
-        > Change the 'session' to the current semester.
+  - Change the 'session' to the current semester.
 
 - For 001, NYA, NYB, and NYC, the schedule of content is different for the summer semester.
-        > Go to the NY* folder
-        > Open the CourseContent.tex files
-        > Comment/Uncomment the proper sections
+  - Go to the NY* folder
+  - Open the CourseContent.tex files
+  - Comment/Uncomment the proper sections
 
 - For NYA, NYB, and NYC, the textbook blurb is different for the summer semester.
-        > Go to the NY* folder
-        > Open the Textbook.tex file
-        > Comment/Uncomment the proper sections
+  - Go to the NY* folder
+  - Open the Textbook.tex file
+  - Comment/Uncomment the proper sections
 
 - In all folder update the file "Teachers.tex" to add the current teachers.
-        > Each teacher as a 'code' with all its info. These are defined in the dawsoncourseoutline.cls file.
-        > The 'code' is usually the first letter of the first name followed by the last name.
-        > Add the \conted next to the name for the continuing education Teachers
+  - Each teacher as a 'code' with all its info. These are defined in the dawsoncourseoutline.cls file.
+  - The 'code' is usually the first letter of the first name followed by the last name.
+  - Add the \conted next to the name for the continuing education Teachers
