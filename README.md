@@ -21,6 +21,7 @@ First thing to do is to set up Github on your computer.
 11. **Create a pull request** your branch to the master branch.
 12. **Merge** the changes to the master branch.
 13. When done will all the changes, you can delete the branch.
+14. Download the program to compile the LaTex files into a pdf: https://miktex.org/download
 
 ## To produce the outlines:
 
