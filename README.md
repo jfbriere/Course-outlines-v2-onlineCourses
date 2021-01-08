@@ -16,6 +16,9 @@ First thing to do is to set up Github on your computer.
 6. Using the desktop app, create a new **branch**. Name it as you want.
 7. Start making changes.
 8. When you want to back everything up, **commit** the changes.
+9. **Fetch** changes from the origin.
+10. **Push** changes back to the repository.
+11. **Merge** your branch to the master branch.
 
 ## To produce the outlines:
 
