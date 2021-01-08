@@ -28,7 +28,9 @@ First thing to do is to set up Github on your computer.
 To make the outlines run the file batch.sh with the name of the course you want.
 
 To run the file, open gitbash in the folder where the batch.sh file is.
+
 Then in gitbash, type `./batch.sh`
+
 (Note, you can use the * to replace text. For instance *NY* will do NYA, NYB and NYC.)
 
 The template file is copied to each folder and then a pdf is generated automatically and finally copied in the Archive folder.
