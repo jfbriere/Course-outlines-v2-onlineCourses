@@ -18,7 +18,9 @@ First thing to do is to set up Github on your computer.
 8. When you want to back everything up, **commit** the changes.
 9. **Fetch** changes from the origin.
 10. **Push** changes back to the repository.
-11. **Merge** your branch to the master branch.
+11. **Create a pull request** your branch to the master branch.
+12. **Merge** the changes to the master branch.
+13. When done will all the changes, you can delete the branch.
 
 ## To produce the outlines:
 
