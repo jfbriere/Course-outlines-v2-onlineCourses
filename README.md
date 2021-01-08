@@ -17,7 +17,7 @@ First thing to do is to set up Github on your computer.
 7. Start making changes.
 8. When you want to back everything up, **commit** the changes.
 
-##To produce the outlines:
+## To produce the outlines:
 
 To make the outlines run the file batch.sh with the name of the course you want.
 (Note, you can use the * to replace text. For instance *NY* will do NYA, NYB and NYC.)
@@ -25,7 +25,7 @@ To make the outlines run the file batch.sh with the name of the course you want.
 The template file is copied to each folder and then a pdf is generated automatically and finally copied in the Archive folder.
 
 
-##Things to update every term:
+## Things to update every term:
 
 - If we hired new faculty or if some faculty members change offices:
         > Open the file dawsoncourseoutline.cls
