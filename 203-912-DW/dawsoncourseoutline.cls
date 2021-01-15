@@ -106,6 +106,15 @@ $^\dag$\small Your teacher will provide a tentative test schedule during the fir
 
 $^\dag$\small Your teacher will provide a tentative test schedule during the first week of class.\\\vspace{-0.5em}}}
 
+\newcommand\evaluationtwo[2]{%
+	\parbox[t]{\entrysep}{\mbox{}}\hskip 1em\parbox[t]{\entrywidth}{
+	\begin{tabular}{p{0.4\textwidth} p{0.07\textwidth} p{0.07\textwidth}}
+		#1\\
+		#2
+	\end{tabular}\\
+
+$^\dag$\small Your teacher will provide a tentative test schedule during the first week of class.\\\vspace{-0.5em}}}
+
 \newcommand\evaluation[3]{%
 	\parbox[t]{\entrysep}{\mbox{}}\hskip 1em\parbox[t]{\entrywidth}{
 	\begin{tabular}{p{0.4\textwidth} p{0.07\textwidth} p{0.07\textwidth}}
@@ -140,6 +149,8 @@ $^\dag$\small Your teacher will provide a detailed breakdown of these components
 \newcommand\nboukhira{\item [Nadim Boukhira] 7A.20, local 4018, \url{nboukhira@dawsoncollege.qc.ca}}
 
 \newcommand\jfbriere{\item [Jean-Fran\c cois Bri\`ere] 7A.16, local 4013, \url{jfbriere@dawsoncollege.qc.ca}}
+
+\newcommand\rcampbell{\item [Robyn E. Campbell] 7A.18, local 4913, \url{recampbell@dawsoncollege.qc.ca}}
 
 \newcommand\jchoquette{\item [Jeremie Choquette] 7B.21, local 4235, \url{jchoquette@dawsoncollege.qc.ca}}
 
