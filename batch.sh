@@ -19,7 +19,7 @@ session="_Winter2021"
 
 ## SUMMER COURSE LIST ##
 #for dir in *NYA* *NYB* *NYC* *001* ; do
-for dir in *NYA*; do
+for dir in *astro*; do
 
 echo 'Generating outline for' $dir
 
